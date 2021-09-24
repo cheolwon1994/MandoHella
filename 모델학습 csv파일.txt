@@ -1,0 +1,17 @@
+ForTrain ->TrainingSet_Yechan
+ForTestTest->TrainingSet
+================
+위에 2개 합쳐서 TrainingFullSet
+
+=================
+ForTest(xx)->TestingSet(xx) 
+
+
+
+=======================
+ForTest =>TestInput6
+ForTest2 => TestInput6_2
+...
+
+ForTrainInput6 =>TrainInpput6
+ForTrainInput6_1->TrainInpput6_1	2개 합친거=> TrainingFullSetInput6
